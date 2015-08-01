@@ -1,0 +1,73 @@
+body {
+  background: #FFF;
+  margin: 0;
+  padding: 30px;
+}
+
+.container {
+  width: 660px;
+  margin: 100px auto;
+  border: 2px;
+}
+
+.class="exp-section" {
+  border: 5px,10px,20px,30px solid gray;
+
+}
+
+.class="edu-section" {
+
+  
+}
+
+h1 {
+
+  font-family: arial;
+  font-style: strong;
+
+}
+
+ul,ol { 
+  text-align: left;
+  font-family: arial;
+}
+
+h2 {
+
+  font-family: arial;
+  font-style: strong;
+
+}
+
+p {
+
+  color: #333;
+  font-family: arial;
+  font-style: strong;
+
+}
+
+header a {
+    color: black;
+    font-weight: bold;
+    font-family: arial, helvetica, sans-serif;
+}
+
+  .active-link {
+    text-decoration: none;
+  }
+
+
+
+  .portfolio-link {
+    font-style: italic;
+
+  }
+
+.about-photo {
+float: right;
+width: 150px;
+
+  }
+
+}
